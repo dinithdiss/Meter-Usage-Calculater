@@ -1,4 +1,4 @@
-# Meter-usage-calculater
+# Meter-Usage-Calculater
 Good for calculate your electricity | water usage 
 
 # Meter Reading Backend.
