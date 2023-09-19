@@ -24,9 +24,6 @@ examples : Electricity Bill Usage calculation, Water bill calculation, ...
 - Postgresql - Database
 - Connect with React frontend using backend APIs
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
 ## Installation
 
 Install the dependencies and devDependencies.
