@@ -10,7 +10,7 @@ examples : Electricity Bill Usage calculation, Water bill calculation, ...
 - Assume user utility bill.
 - You can manage your monthly usage.
 
-## Features
+## Features (API)
 - Add meter reading details.
 - Get meter reading count using account numbers.
 - Get all distinct account numbers (get distinct account numbers one by one).
@@ -22,6 +22,7 @@ examples : Electricity Bill Usage calculation, Water bill calculation, ...
 
 - Nodejs - Backend
 - Postgresql - Database
+- Connect with React frontend using backend APIs
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
