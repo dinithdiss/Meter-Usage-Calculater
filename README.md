@@ -9,6 +9,7 @@ examples : Electricity Bill Usage calculation, Water bill calculation, ...
 - Calculate your daily usage.
 - Assume user utility bill.
 - You can manage your monthly usage.
+- Use JSON format
 
 ## Features (API)
 - Add meter reading details.
