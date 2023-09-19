@@ -1,5 +1,5 @@
 # Meter-Usage-Calculater
-Good for calculate your electricity | water usage 
+Calculate your electricity | water usage 
 
 # Meter Reading Backend.
 
